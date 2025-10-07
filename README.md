@@ -21,3 +21,7 @@ MEMBUAT FORM
 
 MENAMBAHKAN STYLE DALAM FORM
 ![Gambar WhatsApp 2025-10-07 pukul 10 28 50_5aaf0fc0](https://github.com/user-attachments/assets/6ea775b8-9426-469b-94c3-14a9b4644a55)
+
+BUATLAH FORM YANG MENAMPILKAN DROPDOWN MENU DAN LISTBOX DENGAN MULTIPLE SELECTION.
+![Gambar WhatsApp 2025-10-07 pukul 12 39 16_5ba53743](https://github.com/user-attachments/assets/1504d1ad-961f-417c-ac78-b2d30cdd8384)
+
